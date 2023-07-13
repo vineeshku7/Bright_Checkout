@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bright/1.0.0": {
+        "dependencies": {
+          "CheckOutKata": "1.0.0"
+        },
+        "runtime": {
+          "Bright.dll": {}
+        }
+      },
+      "CheckOutKata/1.0.0": {
+        "runtime": {
+          "CheckOutKata.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bright/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CheckOutKata/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
