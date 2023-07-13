@@ -1,0 +1,12 @@
+C:\Users\juste\OneDrive\Desktop\Bright\CheckOutKata\bin\Debug\net6.0\CheckOutKata.deps.json
+C:\Users\juste\OneDrive\Desktop\Bright\CheckOutKata\bin\Debug\net6.0\CheckOutKata.dll
+C:\Users\juste\OneDrive\Desktop\Bright\CheckOutKata\bin\Debug\net6.0\CheckOutKata.pdb
+C:\Users\juste\OneDrive\Desktop\Bright\CheckOutKata\obj\Debug\net6.0\CheckOutKata.csproj.AssemblyReference.cache
+C:\Users\juste\OneDrive\Desktop\Bright\CheckOutKata\obj\Debug\net6.0\CheckOutKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juste\OneDrive\Desktop\Bright\CheckOutKata\obj\Debug\net6.0\CheckOutKata.AssemblyInfoInputs.cache
+C:\Users\juste\OneDrive\Desktop\Bright\CheckOutKata\obj\Debug\net6.0\CheckOutKata.AssemblyInfo.cs
+C:\Users\juste\OneDrive\Desktop\Bright\CheckOutKata\obj\Debug\net6.0\CheckOutKata.csproj.CoreCompileInputs.cache
+C:\Users\juste\OneDrive\Desktop\Bright\CheckOutKata\obj\Debug\net6.0\CheckOutKata.dll
+C:\Users\juste\OneDrive\Desktop\Bright\CheckOutKata\obj\Debug\net6.0\refint\CheckOutKata.dll
+C:\Users\juste\OneDrive\Desktop\Bright\CheckOutKata\obj\Debug\net6.0\CheckOutKata.pdb
+C:\Users\juste\OneDrive\Desktop\Bright\CheckOutKata\obj\Debug\net6.0\ref\CheckOutKata.dll
